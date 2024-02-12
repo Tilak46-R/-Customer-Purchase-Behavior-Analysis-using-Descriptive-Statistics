@@ -29,7 +29,9 @@ README.md: This file provides an overview of the repository and instructions for
 **Requirements**
 
 Python 3
+
 Pandas
+
 NumPy
 
 **Contributors**
